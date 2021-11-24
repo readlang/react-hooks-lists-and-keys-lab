@@ -11,5 +11,5 @@ function About({ bio, links }) {
     </div>
   );
 }
-
+ 
 export default About;
